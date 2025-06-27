@@ -1,0 +1,106 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2025-06-21",
+      "amount": -0.01,
+      "category": "Food",
+      "description": "",
+      "account": "checking"
+    },
+    {
+      "id": 2,
+      "date": "2025-06-22",
+      "amount": -40.0,
+      "category": "Food",
+      "description": "Wow Tikka",
+      "account": "checking"
+    },
+    {
+      "id": 3,
+      "date": "2025-06-22",
+      "amount": 100.0,
+      "category": "Other",
+      "description": "Splitwise",
+      "account": "checking"
+    },
+    {
+      "id": 4,
+      "date": "2025-06-16",
+      "amount": 2000.0,
+      "category": "Entertainment",
+      "description": "Spear",
+      "account": "checking"
+    },
+    {
+      "id": 5,
+      "date": "2025-06-22",
+      "amount": -650.0,
+      "category": "Housing",
+      "description": "Rent",
+      "account": "checking"
+    },
+    {
+      "id": 6,
+      "date": "2025-06-22",
+      "amount": -300.0,
+      "category": "Transportation",
+      "description": "Gas",
+      "account": "checking"
+    }
+  ],
+  "accounts": {
+    "checking": 6109.99,
+    "savings": 10000.0
+  },
+  "budgets": {
+    "Food": 800.0,
+    "Housing": 1500.0,
+    "Transportation": 400.0,
+    "Entertainment": 200.0,
+    "Bills": 500.0,
+    "Other": 300.0
+  },
+  "goals": [
+    {
+      "name": "Emergency Fund",
+      "target": 15000.0,
+      "saved": 10000.0
+    },
+    {
+      "name": "Vacation",
+      "target": 3000.0,
+      "saved": 500.0
+    },
+    {
+      "name": "car",
+      "target": 15.01,
+      "saved": 0.0
+    }
+  ],
+  "user": {
+    "name": "Alex",
+    "monthly_income": 6500.0
+  },
+  "investments": {
+    "stocks": 0.0,
+    "bonds": 0.0,
+    "etfs": 0.0,
+    "mutual_funds": 0.0,
+    "crypto": 0.0,
+    "real_estate": 0.0
+  },
+  "user_profile": {
+    "full_name": "",
+    "age": null,
+    "employment_status": "",
+    "job_title": "",
+    "marital_status": "",
+    "dependents": 0,
+    "risk_tolerance": "moderate",
+    "financial_goals": [],
+    "retirement_age": 65,
+    "monthly_income": 10000.0,
+    "monthly_expenses": 0.0
+  }
+}
