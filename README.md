@@ -1,6 +1,8 @@
 # 💰 FinFluent - Your AI-Powered Financial Assistant
 
-FinFluent is an intelligent personal finance management application that combines AI-powered financial advice with comprehensive expense tracking. Built with Streamlit and powered by OpenAI, it helps you manage your finances through natural language interactions and intuitive visualizations.
+FinFluent is an intelligent personal finance management application that combines AI-powered financial advice with comprehensive expense tracking. Built with Streamlit and powered by OpenAI, it helps you manage your finances through natural language interactions and intuitive visualizations. 
+
+A Finalist project at the DreamAI hackathon held by Likelion US at the Foundry, Cambridge on June 22nd, 2025.
 
 ## ✨ Features
 
@@ -120,9 +122,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- Built with ❤️ using Streamlit and OpenAI
+- Built using Streamlit and OpenAI
 - Icons by [Font Awesome](https://fontawesome.com/)
 - Color scheme inspired by modern fintech applications
   
