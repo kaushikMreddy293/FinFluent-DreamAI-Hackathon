@@ -19,6 +19,11 @@ FinFluent is an intelligent personal finance management application that combine
 - **Visualization**: Plotly, Streamlit Charts
 - **Vector Database**: FAISS (for RAG implementation)
 
+## Project Demo
+
+https://github.com/user-attachments/assets/43541f7e-d999-49cf-893a-06ab090542c9
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
