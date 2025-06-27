@@ -120,3 +120,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with ❤️ using Streamlit and OpenAI
 - Icons by [Font Awesome](https://fontawesome.com/)
 - Color scheme inspired by modern fintech applications
+  
+## Teammates
+- Kaushik Malikireddy - Business Strategy
+- Sahiti Nallamolu - Ideation & Inital Modeling
+- Aditi Deodhar - Technical Implementation 
+- Nitin Indukuri - Ideation & Inital Modeling
+- Ramachandra Kashyap - RAG Implementation
