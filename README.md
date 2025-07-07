@@ -1,6 +1,6 @@
 # 💰 FinFluent - Your AI-Powered Financial Assistant
 
-FinFluent is an intelligent personal finance management application that combines AI-powered financial advice with comprehensive expense tracking. Built with Streamlit and powered by OpenAI, it helps you manage your finances through natural language interactions and intuitive visualizations. 
+FinFluent is an intelligent personal finance assistant built using LangChain, OpenAI, and Streamlit. It provides users with actionable financial insights via natural language queries. It uses Retrieval-Augmented Generation (RAG), a tool-using agent powered by GPT-4, and integrates a Perplexity search fallback for handling questions outside personal finance scope. The system is modular, uses LangGraph for agent execution, and includes conversation memory for contextual interaction. Built with Streamlit, it helps you manage your finances through natural language interactions and intuitive visualizations
 
 A Finalist project at the DreamAI hackathon held by Likelion US at the Foundry, Cambridge on June 22nd, 2025.
 
