@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/43541f7e-d999-49cf-893a-06ab090542c9
 ### Prerequisites
 - Python 3.8 or higher
 - OpenAI API key
-- (Optional) Perplexity API key for enhanced web search
+- Perplexity API key for enhanced web search
 
 ### Installation
 
